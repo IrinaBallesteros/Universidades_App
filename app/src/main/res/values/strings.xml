@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Universidades</string>
+    <string name="nombre_universidad">Nombre Universidad</string>
+    <string name="ciudad">Ciudad</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="registrar">Registrar</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="recuperar_password">Recuperar contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+
+    <string name="sitio_web">Sitio web</string>
+    <string name="rector">Rector</string>
+    <string name="telefono">Teléfono</string>
+    <string name="numero_de_carreras">Número de carreras</string>
+    <string name="numero_de_sedes">Número de sedes</string>
+
+    <string name="correo">Correo</string>
+    <string name="username">Nombre de usuario</string>
+
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_contrasena">Contraseña</string>
+
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="btn_recuperar_contrasena">Recuperar contraseña</string>
+
+    <string name="nombre_de_la_universidad">Nombre de la universidad</string>
+    <string name="categoria">Categoría</string>
+    <string name="acceso">Acceso</string>
+    <string name="email">Email</string>
+    <string name="web">Web</string>
+
+    <string name="lista_de_universidades">Lista de Universidades</string>
+    <string name="registro_de_usuario">Registro de Usuario</string>
+</resources>
